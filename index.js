@@ -1,4 +1,4 @@
-var text = "Hola que tal, bienvenidos a BettaTech. Si os está gustando este video, suscribiros y darle a like y a la campanita para ver los nuevos videos que vaya subiendo!";
+var text = "Hola que tal, este es un ejemplo sobre como trabajar con tablas de hash. Este es un texto de ejemplo, tengo que contar cuantas veces se repite cada palabra de este texto.";
 function normalize(word) {
     return word.toLocaleLowerCase().replace(/[.!,]/g, "");
 }
